@@ -153,7 +153,8 @@ export class AppRoot {
               anchorTitle="Home link"
               anchorClass="u-display-block c-logo"
             >
-              <h1>CovApp</h1>
+              {/* <h1>CovApp</h1> */}
+              <h1>PHSH Patient Screening App</h1>
             </stencil-route-link>
           )}
           <d4l-language-switcher
@@ -180,7 +181,7 @@ export class AppRoot {
             </stencil-route-switch>
           </stencil-router>
         </main>
-        <footer class="c-footer">
+        {/* <footer class="c-footer">
           <ul class="u-list-reset">
             <li>
               <stencil-route-link
@@ -215,7 +216,7 @@ export class AppRoot {
           <p>
             © {new Date().getFullYear()} {i18next.t('app_root_all_rights_reserved')}
           </p>
-        </footer>
+        </footer> */}
       </connect-translations>
     );
   }

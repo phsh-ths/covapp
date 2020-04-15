@@ -30,7 +30,7 @@ function tryToReadTranslationFile(filePath) {
 
 function tryToReadLogo() {
   try {
-    return readFileSync(join(__dirname, '..', 'src', 'custom', 'logo.svg'), 'utf8');
+    return readFileSync(join(__dirname, '..', 'src', 'custom', 'phsh_logo.svg'), 'utf8');
   } catch (error) {
     return '';
   }
