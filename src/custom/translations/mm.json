@@ -1,10 +1,10 @@
 {
   "label": "Burmese",
   "keys": {
-    "answer_no": "မဟုတ်ပါ",
+    "answer_no": "✖",
     "answer_region_no": "အထက်ပါဒေသများသို့သွားရောက်ဖူးခြင်းမရှိပါ",
-    "answer_unknown": "မသိပါ",
-    "answer_yes": "ဟုတ်ပါသည်",
+    "answer_unknown": "?",
+    "answer_yes": "✔",
     "answers_table_headline": "အဖြေရွေးပေးပါ",
     "answers_table_hide_answers": "အဖြေများကိုဖယ်ရှားပါ",
     "answers_table_print": "စာရွက်ထုတ်ရန်",
