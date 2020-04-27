@@ -35,11 +35,7 @@
     "faq_headline": "အမေးများသော Corona Virus နှင့်ပက်သက်သောမေးခွန်းများ",
     "found_code": "QR ကုတ်ရှာတွေ့သည်",
     "imprint_content": "[TRANSLATION/CONTENT needed for translation key: imprint_content]",
-<<<<<<< HEAD
     "imprint_headline": "ပုံနှိပ်ထုတ်ဝေသည်",
-=======
-    "imprint_headline": "Imprint",
->>>>>>> 6c4dd518232bae0a7953ef214a99de707b39b373
     "input_date_error": "နေ့ရက်မတူပါ ပြန်လည်ကြိုးစားပါ",
     "input_date_error_future": "နေ့ရက်ပြန်ရွေးပါ",
     "input_date_help": "နေ့ရက်ပြန်ရေးပေးပါ၊ ဥပမာ 09 03 2020 (ရက် လ ခုနှစ်)",
@@ -53,7 +49,6 @@
     "input_multiple_choice_none": "တစ်ခုမျှမဟုတ်ပါ",
     "input_postal_code_label": "[TRANSLATION/CONTENT needed for translation key: input_postal_code_label]",
     "legal_first_paragraph": "<p><strong>ကြိုတင်သတိပေးအကြောင်းကြားခြင်း</strong></p><p>ယခု Application ကိုအသုံးပြုခြင်းသည် ဆေးကုသခြင်း၏အစားထိုးမဟုတ်ပါ။ ယခု သင်နေထိုင်မကောင်းဖြစ်နေပါက နီးစပ်ရာဆေးရုံ၊ ဆေးခန်းသို့သွားပါ။ ယခု Digital စစ်ဆေးမှုသည် ရောဂါရှိမရှိ အလုံးစုံစစ်ဆေးခြင်းမဟုတ်ပါ။ ယခုစစ်ဆေးမှုသည်သင်၏ကျန်းမာရေးကို အထောက်အကူပြုစေရန်သာရည်ရွယ်ပါသည်။</p>",
-<<<<<<< HEAD
     "legal_headline": "တရားဝင်",
     "logo_header_label": "ထောက်ခံမှုနှင့်အတူ",
     "navigation_header_back_button_label": "ရှေ့သို့ပြန်သွားပါ",
@@ -68,22 +63,6 @@
     "q_M1_comment": "ကိုယ်တွင်းအင်္ဂါအစားထိုးကုသခြင်း၊ သွေးနှင့်ပက်သက်သောရောဂါများကုသခြင်းအတွက် သောက်သုံးနေသောဆေးများ(သို့) ကင်ဆာဆေးသွင်း ကုသခြင်းကိုဆိုလိုခြင်းဖြစ်ပါသည်။",
     "q_M1_text": "သင်သည်ယခုကိုယ်ခံအား ကျဆင်းစေသော ဆေးများကို သောက်သုံးနေပါသလား။",
     "q_M2_text": "၁၀လပိုင်း ၂၀၁၉ မှ ယနေ့ အထိ အဖျား ကာကွယ်ဆေး ထိုးထားဖူးပါသလား။",
-=======
-    "legal_headline": "Legal",
-    "logo_header_label": "With the support of",
-    "navigation_header_back_button_label": "Navigate back",
-    "q_C0_comment": "Close contact with a confirmed case means:\n<ul><li>Face-to-face contact for longer than 15 minutes</li><li>Direct, physical contact (touching, shaking hands, kissing)</li><li>Being within 1.5 meters of the person for more than 15 minutes</li><li>Contact with or exchange of body fluids</li><li>Living in the same apartment</li></ul>\n\nChoose \"No\" if you have worn adequate protective measures (mask, smock) on contact.",
-    "q_C0_text": "Have you had close contact with a confirmed case?",
-    "q_CZ_text": "What day was the last contact?",
-    "q_D0_text": "Have you been diagnosed with chronic lung disease by a doctor?",
-    "q_D1_text": "Have you been diagnosed with diabetes by a doctor?",
-    "q_D2_text": "Have you been diagnosed with heart disease by a doctor?",
-    "q_D3_text": "Have you been diagnosed with adipositas (obesity) by a doctor?",
-    "q_M0_text": "Are you currently taking steroids?",
-    "q_M1_comment": "ကိုယ်တွင်းအင်္ဂါအစားထိုးကုသခြင်း၊ သွေးနှင့်ပက်သက်သောရောဂါများကုသခြင်းအတွက် သောက်သုံးနေသောဆေးများ(သို့) ကင်ဆာဆေးသွင်း ကုသခြင်းကိုဆိုလိုခြင်းဖြစ်ပါသည်။",
-    "q_M1_text": "သင်သည်ယခုကိုယ်ခံအား ကျဆင်းစေသော ဆေးများကို သောက်သုံးနေပါသလား။",
-    "q_M2_text": "Have you been vaccinated against flu between October 2019 and today?",
->>>>>>> 6c4dd518232bae0a7953ef214a99de707b39b373
     "q_P0_option0": "၄၀ အောက်",
     "q_P0_option1": "၄၀ နှင့် ၅၀ ကြား",
     "q_P0_option2": "၅၁ နှင့် ၆၀ ကြား",
@@ -95,13 +74,8 @@
     "q_P2_option0": "တစ်ဦးတည်း",
     "q_P2_option1": "မိသားစုနှင့်အတူ/ အခန်းတူ/ အဆောင်တူ",
     "q_P2_text": "သင်၏လက်ရှိနေထိုင်မှုအခြေအနေ?",
-<<<<<<< HEAD
     "q_P3_comment": "သင်၏ အသက်မွေးဝမ်းကျောင်းနှင့်ဆက်နွှယ်သောပြုစုစောင့်ရှောက်မှုဝန်ဆောင်မှုများကို မဆိုလိုပါ။",
     "q_P3_text": "သက်ကြီးရွယ်အိုများ၊ နာတာရှည်ရောဂါသည်များ နှင့် ခုခံအားနည်းနေသူများ ကို အနည်းဆုံး တပတ်တခါ သီးသန့်ပြုစုစောက်ရှောက်မှု ပေးရပါသလား။",
-=======
-    "q_P3_comment": "Care services or support that you provide in connection with your professional activity are not meant.",
-    "q_P3_text": "At least once a week, do you privately care for people with age-related conditions, chronic illnesses, or frailty?",
->>>>>>> 6c4dd518232bae0a7953ef214a99de707b39b373
     "q_P4_option0": "ဆေးဘက်ဆိုင်ရာ ဆေးရုံ/ဆေးခန်း စသည်",
     "q_P4_option1": "(ကျောင်း/ နေ့ ပိုင်းစောင့်ရှောက်မှု/ အိမ်/ တက္ကသိုလ်)",
     "q_P4_option2": "အထက်ဖေါ်ပြပါတစ်ခုမှ မဟုတ်ပါ",
@@ -119,7 +93,6 @@
     "q_S2_option6": "၄၂ ဒီဂရီစင်တီဂရိတ်ထက်ပိုသည်",
     "q_S2_option7": "မသိပါ",
     "q_S2_text": "ခန့်မှန်းခြေအမြင့်ဆုံးအပူချိန်ကဘယ်လောက်လဲ။",
-<<<<<<< HEAD
     "q_S3_text": "လွန်ခဲ့သော ၂၄နာရီ အတွင်း ချမ်းစိမ့်ခြင်း ခံစားရပါသလား။",
     "q_S4_text": "လွန်ခဲ့သော ၂၄ နာရီအတွင်းသင်ပန်းခဲ့သလား (သို့) ယခု ပင်ပန်းနေပြီလား။",
     "q_S5_text": "လွန်ခဲ့သော ၂၄နာရီ အတွင်း ခန္ဓာကိုယ် ကိုက်ခဲခြင်း ခံစားရပါသလား။",
@@ -139,43 +112,17 @@
     "q_V1_text": "[TRANSLATION/CONTENT needed for translation key: q_V1_text]",
     "q_X0_comment": "ယခုမေးခွန်းသည်အရေးပေါ်(သို့) ပိုမိုဆိုးရွာလာသောလက္ခဏာများနှင့်သက်ဆိုင်ပါသည်။ နာတာရှည်လက္ခဏာများ (သို့) ရာသီအလိုက်ဖြစ်ပေါ်တက်သောရောဂါလက္ခဏာများနှင့် မသက်ဆိုင်ပါ။ အကယ်၍သင့်ထံတွင်နာတာရှည်ရောဂါရှိနေပါက ယခုခံစားနေရသောရောဂါလက္ခဏာသည် ယခင်ခံစားနေရသည်နှင့် နှိုင်းယှဉ်၍ ပိုမိုဆိုးရွားသည်သည်ဟုထင်မြင်မိပါက အောက်ပါရောဂါလက္ခဏာထဲမှ သက်ဆိုင်သော ရောဂါလက္ခဏာကိုရွေးချယ်ပေးပါ။  \n\nအကယ်၍သင့်ထံတွင် အောက်ပါလက္ခဏာများ တစ်ခုမှမရှိပါက မည်သည်ကုမှမရွေးချယ်ပဲ နောက်မေးခွန်းတစ်ခုသို့ဆက်လက်ဖြေဆိုပါ။ ",
     "q_X0_option_S4": "အားနည်းခြင်း သို့မဟုတ် မောပန်းနွမ်းနယ်ခြင်း",
-=======
-    "q_S3_text": "In the past 24 hours, have you had chills?",
-    "q_S4_text": "လွန်ခဲ့သော ၂၄ နာရီအတွင်းသင်ပန်းခဲ့သလား (သို့) ယခု ပင်ပန်းနေပြီလား။",
-    "q_S5_text": "In the past 24 hours, have you had body aches?",
-    "q_S6_comment": "အထက်ပါမေးခွန်းသည် အအေးမိလက္ခဏာများနှင့် သာသက်ဆိုင်ပါသည်။ နာတာရှည်ချောင်းဆိုးခြင်း၊ ဓာတ်မတည့်၍ချောင်းဆိုးခြင်းများနှင့် မသက်ဆိုင်ပါ။\nအကယ်၍သင့်ထံတွင်နာတာရှည်ချောင်းဆိုးရောဂါရှိနေပါက သင်၏လက်ရှိရောဂါအခြေအနေသည် ယခင်ထက်ပို၍ဆိုးလာပါသလား။ဥပမာ-ယခုချောင်းဆိုခြင်းသည် ယခင်ထက်ပိုစိပ်လာခြင်း။",
-    "q_S6_text": "In the past 24 hours, have you had a persistent cough?",
-    "q_S7_comment": "The question relates to cold symptoms and excludes chronic runny nose, seasonal or allergy-related runny nose. If you have chronic sniffling, please compare your current conditions with your existing problems.",
-    "q_S7_text": "In the past 24 hours, have you had a runny nose?",
-    "q_S8_comment": "If you have a chronic bowel disease, please compare your current bowel symptoms to your bowel patterns under your existing medical condition.",
-    "q_S8_text": "In the past 24 hours, have you had diarrhea?",
-    "q_S9_text": "In the past 24 hours, have you had a sore throat?",
-    "q_SA_text": "In the past 24 hours, have you had a headache?",
-    "q_SB_comment": "Check the box if you:\n<ul><li>Become breathless faster than usual or have difficulty breathing with light loads, such as a walk or climbing a short flight of stairs</li><li>Experience difficulty breathing or shortness of breath when sitting or lying down</li><li>Have a feeling of breathlessness/shortness of breath when getting up from bed or a chair</li></ul>\n\nIf you have chronic lung disease, compare your current breathing problems with your existing breathing problems.",
-    "q_SB_text": "လွန်ခဲ့သော (၂၄)နာရီအတွင်းသင်သည် ပုံမှန်ထက်အသက်ရှုမြန်လာခြင်းကိုခံစားရပါသလား။",
-    "q_SC_text": "Have you had any taste and/or smell loss in the last 24 hours?",
-    "q_SZ_text": "With regard to all questions about symptoms: since when have you had the symptoms you specified?",
-    "q_V1_comment": "[TRANSLATION/CONTENT needed for translation key: q_V1_comment]",
-    "q_V1_text": "[TRANSLATION/CONTENT needed for translation key: q_V1_text]",
-    "q_X0_comment": "ယခုမေးခွန်းသည်အရေးပေါ်(သို့) ပိုမိုဆိုးရွာလာသောလက္ခဏာများနှင့်သက်ဆိုင်ပါသည်။ နာတာရှည်လက္ခဏာများ (သို့) ရာသီအလိုက်ဖြစ်ပေါ်တက်သောရောဂါလက္ခဏာများနှင့် မသက်ဆိုင်ပါ။ အကယ်၍သင့်ထံတွင်နာတာရှည်ရောဂါရှိနေပါက ယခုခံစားနေရသောရောဂါလက္ခဏာသည် ယခင်ခံစားနေရသည်နှင့် နှိုင်းယှဉ်၍ ပိုမိုဆိုးရွားသည်သည်ဟုထင်မြင်မိပါက အောက်ပါရောဂါလက္ခဏာထဲမှ သက်ဆိုင်သော ရောဂါလက္ခဏာကိုရွေးချယ်ပေးပါ။  \n\nအကယ်၍သင့်ထံတွင် အောက်ပါလက္ခဏာများ တစ်ခုမှမရှိပါက မည်သည်ကုမှမရွေးချယ်ပဲ နောက်မေးခွန်းတစ်ခုသို့ဆက်လက်ဖြေဆိုပါ။ ",
-    "q_X0_option_S4": "Feeling tired or weak",
->>>>>>> 6c4dd518232bae0a7953ef214a99de707b39b373
     "q_X0_option_S5": "ကိုယ်ခန္ဓာကိုက်ခဲခြင်း၊",
     "q_X0_option_S8": "ဝမ်းလျှော",
     "q_X0_option_SA": "ခေါင်းကိုက်ခြင်း",
     "q_X0_option_SC": "အရသာနှင့် / သို့မဟုတ်အနံ့ဆုံးရှုံးမှု",
-<<<<<<< HEAD
     "q_X0_text": "ပြီးခဲ့သည့် ၂၄ နာရီအတွင်းအောက်ပါလက္ခဏာများအနက်မှမည်သည်ကိုသင်တွေ့ရှိခဲ့သနည်း။  (ရွေးချယ်မှုအမြောက်အများဖြစ်နိုင်သည်)",
-=======
-    "q_X0_text": "Which of the following symptoms have you had in the past 24 hours? (Multiple selection possible)",
->>>>>>> 6c4dd518232bae0a7953ef214a99de707b39b373
     "q_X1_comment": "သင်၏အဖြေများကို Covid-19 ရောဂါသုသေတနလုပ်ငန်းများအတွက်လှုဒါန်းလိုပါသလား။",
     "q_X1_option0": "[TRANSLATION/CONTENT needed for translation key: q_X1_option0]",
     "q_X1_option1": "မဟုတ်ပါ၊ ကျွန်ုပ်၏ရလဒ်များကိုသာတွေ့မြင်လိုပါသည်",
     "q_X1_text": "ကျေးဇူးပြု၍ သင်၏အချက်အလက်များကိုကျွန်ုပ်တို့အားလှူဒါန်းပါ။",
     "qr_code_headline": "သင်၏ကိုယ်ရေးအကျဉ်",
     "qr_code_paragraph": "အောက်တွင်အဖြေနှစ်ချုပ်ကိုဇယားဖြင့်ဖေါ်ပြထားသည်။ QR Code ဖြင့်လည်းဖေါ်ပြထားပါသည်။ အောက်ပါ QR Code အဖြေနှစ်ချုပ်နှင့် အကြံပေးချက်များကို Screen Shot ရိုက်၍ဖြစ်စေ၊ Print ထုတ်၍ဖြစ်စေသိမ်းထားနိုင်ပါသည်။ လိုအပ်ပါက ဆေးရုံ၊ ဆေးခန်းများသို့ သွားသည့်အခါပြသနိုင်ပါသည်။",
-<<<<<<< HEAD
     "questionnaire_button_generate_qr": "ပြီးမြောက်သည်။",
     "questionnaire_button_next": "Next",
     "recommendation_case_1_additonal_info": "[TRANSLATION/CONTENT needed for translation key: recommendation_case_1_additonal_info]",
@@ -186,18 +133,6 @@
     "recommendation_case_1_testing_sites_info": "မေးခွန်းများကို ပြပါ။",
     "recommendation_case_1_text": "[TRANSLATION/CONTENT needed for translation key: recommendation_case_1_text]",
     "recommendation_case_2_headline": "ကျေးဇူးပြုပြီးကိုယ့်ကိုယ်ကိုဂရုစိုက်ပါ",
-=======
-    "questionnaire_button_generate_qr": "Complete questionnaire",
-    "questionnaire_button_next": "Next",
-    "recommendation_case_1_additonal_info": "[TRANSLATION/CONTENT needed for translation key: recommendation_case_1_additonal_info]",
-    "recommendation_case_1_emoji_label": "Red circle",
-    "recommendation_case_1_headline": "Get in touch",
-    "recommendation_case_1_hide_info": "Hide testing sites",
-    "recommendation_case_1_show_info": "Show testing sites",
-    "recommendation_case_1_testing_sites_info": "Show testing sites",
-    "recommendation_case_1_text": "[TRANSLATION/CONTENT needed for translation key: recommendation_case_1_text]",
-    "recommendation_case_2_headline": "Please take care of yourself at home.",
->>>>>>> 6c4dd518232bae0a7953ef214a99de707b39b373
     "recommendation_case_2_text": "[TRANSLATION/CONTENT needed for translation key: recommendation_case_2_text]",
     "recommendation_case_3_emoji_label": "Orange circle",
     "recommendation_case_3_headline": "Stay at home and get healthy",
@@ -225,7 +160,6 @@
     "risk_spreading_paragraphs_headline": "General notes",
     "risk_spreading_workspace_medical": "Please inform your employer of your contact or current symptoms and discuss further measures to protect the people around you and your colleagues.",
     "risk_spreading_workspace_medical_headline": "You are working in the medical field incl. nursing",
-<<<<<<< HEAD
     "risk_very_ill_above_sixty_five": "<strong>သင့် အသက်ရှု မဝဟု သတင်းပို့ခဲ့သည်။</strong>\nကျေးဇူးပြု၍ သင်ပြသနေသောဆရာဝန် သို့မဟုတ် ပန်းလှိုင်ဆေးခန်း ကိုဆက်သွယ်ပါ။ အသက်ရှုမဝခြင်း အခြေအနေပိုဆိုးလာလျှင် ကျန်းမာရေး အထောက်အကူ အမြန်ဆုံးရယူပါ။ သင်၏လက်ရှိအခြေအနေ နှင့် လက္ခဏာများပိုမိုဆိုးရွားလာလျှင် ဖွယ်ရှိသည့်အခြေအနေများကိုယုံကြည်စိတ်ချရသောသူနှင့်နေ့စဉ်စစ်ဆေးပါ။ ",
     "risk_very_ill_below_sixty_five": "<strong>သင့် အသက်ရှု ခြင်း မဝဟု သတင်းပို့ခဲ့သည်။</strong>\nကျေးဇူးပြု၍ သင်ပြသနေသောဆရာဝန် သို့မဟုတ် ပန်းလှိုင်ဆေးခန်း ကိုဆက်သွယ်ပါ။ အသက်ရှုမဝခြင်း အခြေအနေပိုဆိုးလာလျှင် ကျန်းမာရေး အထောက်အကူ အမြန်ဆုံးရယူပါ။ံဲသည်။  ",
     "start__sub_headline_5": "Also use the CovApp and help fight COVID-19",
@@ -245,26 +179,5 @@
     "summary_headline": "သင့် အဖြေ အကျဉ်းချုပ် ",
     "summary_reset_button": "အဖြေကို ဖျက်ရန် ",
     "summary_reset_headline": "သင် နောက်တခါ စမ်းဖြေလိုပါ သလား "
-=======
-    "risk_very_ill_above_sixty_five": "<strong>You reported shortness of breath.</strong>\nPlease call your general practitioner or the medical on-call service <a href=\"tel:+49116117\">(+49 116 117)</a>. If your shortness of breath becomes severe, please seek medical help. \n\nPlease check in daily with a trusted person about your current condition and any potential worsening of symptoms.",
-    "risk_very_ill_below_sixty_five": "<strong>You reported shortness of breath.</strong>\nPlease call your general practitioner or the medical on-call service <a href=\"tel:+49116117\">(116117)</a>. If your shortness of breath becomes severe, please seek medical help. ",
-    "start__sub_headline_5": "Also use the CovApp and help fight COVID-19",
-    "start_headline": "coronavirus နှင့်ပတ်သက်။ အကြံပြုချက်များနှင့်သတင်းအချက်အလက်",
-    "start_legal_paragraph": "<strong>This application is not an application that provides diagnostic services. The application serves to simplify the procedures in care.</strong>",
-    "start_paragraph_1_option_1": "Add info relevant to PHSH",
-    "start_paragraph_1_option_2": "Decision support for doctor's visit or coronavirus test",
-    "start_paragraph_1_option_3": "Information to reduce your risk",
-    "start_paragraph_1_option_4": "Optimize patient flow",
-    "start_paragraph_2": "[TRANSLATION/CONTENT needed for translation key: start_paragraph_2]",
-    "start_paragraph_3": "<p>The survey is evaluated anonymously, and all information is processed on your device (for example, your smartphone). None of your answers will be forwarded to us, our server, or any third party. </p>",
-    "start_paragraph_4": "<p>The use of this app does not qualify as medical treatment. If you currently feel seriously ill, please seek medical help.</p>",
-    "start_sub_headline_1": "Prepare your doctor's visit",
-    "start_sub_headline_2": "What is the CovApp?",
-    "start_sub_headline_3": "Which data will be transmitted through the internet?",
-    "start_sub_headline_4": "If in doubt, call a doctor!",
-    "summary_headline": "Your summary",
-    "summary_reset_button": "Delete answers",
-    "summary_reset_headline": "Do you want to do the test again?"
->>>>>>> 6c4dd518232bae0a7953ef214a99de707b39b373
   }
 }
