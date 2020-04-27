@@ -154,7 +154,7 @@ export class AppRoot {
               anchorClass="u-display-block c-logo"
             >
               {/* <h1>CovApp</h1> */}
-              <h1>PHSH Patient Screening App</h1>
+              <h1>PHSH Covid Screening App</h1>
             </stencil-route-link>
           )}
           <d4l-language-switcher
