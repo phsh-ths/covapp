@@ -143,33 +143,7 @@
     "recommendation_case_5_emoji_label": "အစိမ်းရောင် စက်ဝိုင်း",
     "recommendation_case_5_headline": "အထွေထွေသန့်ရှင်းမှုဆိုင်ရာအကြံပြုချက်များနှင့် လူမှုရေးအကွာအဝေးကိုလိုက်နာပါ",
     "recommendation_case_5_text": "[TRANSLATION/CONTENT needed for translation key: recommendation_case_5_text]",
- "recommendation_information_hotlines_content": "
-<p>Pun Hlaing Siloam Hospital (Hlaing Tharyar)\n
-  Pun Hlaing Estate Avenue, Hlaing Tharyar Township, \n
-  Yangon, Myanmar.		Tel: +95 1 368 4323, 368 4325, 368 4336, 368 3015, 368 3060\n
-  +95 9 421 042 679     Fax: +95 1 368 4324</p>
-<p>Pun Hlaing Clinic (Downtown Yangon)\n
-  No.238/240, Bogyoke Aung San Road, \n
-  Botahtaung Township, Yangon, Myanmar. \n
-  Tel: +95 1 250 677, 824 5483    Fax: +95 1 824 0114</p>
-Pun Hlaing Siloam Hospital (Mandalay)\n
-  No.97, 73 Street (Bet 31 &amp; 32 Street), \n
-  Chan Aye Tharzan Township,  Mandalay, Myanmar.\n
-  Tel: +95 2 406 9203 ( 4 5 6 ), +95 9 952 207 781 \n
-Fax: +95 2 406 9085</h3>
-<p>Pun Hlaing Siloam Hospital (Taunggyi)\n
-  No.310, East Circular Street, Thit Taw Quarter, \n
-  Taunggyi Township, Shan State, Myanmar\n
-  Tel: +95 081 200 844, 081 212 2844</p>
-<p>Pun Hlaing Clinic (Thanlyin)\n
-  Bldg: A-5, Ground Floor, Wing - A,\n
-  Star City, Thanlyin Tsp, Yangon.\n
-  Tel: 056 231 50 (1 2 3) (Ext: 1270, 1271)\n
-  +95 9 449 523 534</p>
-<p>Pun Hlaing Clinic (Nyaung Shwe)\n
-  No. 37, East Tharzi Lake Street, Tharzi Quarter, \n
-  Nyaung Shwe Town, Shan State, Myanmar.\n
-  Tel: +95 9 450 692 206",</p>"
+    "recommendation_information_hotlines_content": "<h3>Pun Hlaing Siloam Hospital (Hlaing Tharyar)</h3><strong>Pun Hlaing Estate Avenue, Hlaing Tharyar Township,</strong>\nTel: +95 1 368 4323, 368 4325, 368 4336, 368 3015, 368 3060\n+95 9 421 042 679Fax: +95 1 368 4324\n<strong>Pun Hlaing Clinic (Downtown Yangon)</strong>\nNo.238/240, Bogyoke Aung San Road, \nBotahtaung Township, Yangon, Myanmar. \nTel: +95 1 250 677, 824 5483Fax: +95 1 824 0114 \n<strong>Pun Hlaing Siloam Hospital (Mandalay)</strong>\nNo.97, 73 Street (Bet 31 &amp; 32 Street), \nChan Aye Tharzan Township,  Mandalay, Myanmar.\nTel: +95 2 406 9203 ( 4 5 6 ), +95 9 952 207 781 \nFax: +95 2 406 9085\n<strong>Pun Hlaing Siloam Hospital (Taunggyi)</strong>\nNo.310, East Circular Street, Thit Taw Quarter, \nTaunggyi Township, Shan State, Myanmar\nTel: +95 081 200 844, 081 212 2844\n<strong>Pun Hlaing Clinic (Thanlyin)</strong>\nBldg: A-5, Ground Floor, Wing - A,\nStar City, Thanlyin Tsp, Yangon.\nTel: 056 231 50 (1 2 3) (Ext: 1270, 1271)\n+95 9 449 523 534\n<strong>Pun Hlaing Clinic (Nyaung Shwe)</strong>\nNo. 37, East Tharzi Lake Street, Tharzi Quarter, \n Nyaung Shwe Town, Shan State, Myanmar.\nTel: +95 9 450 692 206",
     "recommendation_information_hotlines_headline": "ဆက်သွယ်ရန် ဖုန်းနံပါတ်များ",
     "recommendation_telemedicine_content": "ပန်းလှိုင်စီလုံဆေးရုံ၏ အွန်လိုင်း ကျန်းမာရေးဝန်ဆောင်မှု ဌာနသို့ဆက်သွယ်လိုပါက အောက်ပါဖုံးနံပါတ်များသို့ဆက်သွယ်နိုင်ပါသည်။ ......သင်၏အဖြေအနှစ်ချုပ်နှင့်ပက်သက်၍လည်း ထပ်မံဆွေးနွေးနိုင်မည်ဖြစ်ပါသည်။ \n\n<strong><a href=\"https://app.samedi.de/practices/40qpj1s185nermhp/api/booking-widget/vcdirekt?category_id=73198&event_type_id=211636\" target=\"_blank\">Charité's video consultation service</a></strong>\n\n<strong><a href=\"https://kry.de/redirect?campaign=charite_app-link-mar2020-corona\" target=\"_blank\">KRY</a></strong>\n\n<strong><a href=\"https://www.teleclinic.com/behandlungen/coronavirus/\" target=\"_blank\">Teleclinic</a></strong>\n\n<strong><a href=\"https://www.jameda.de/videosprechstunde/corona-beratung/?utm_campaign=Corona-Beratung&utm_source=Charite&utm_medium=chatbot&utm_content=button\" target=\"_blank\">Jameda</a></strong>",
     "recommendation_telemedicine_headline": "Tele consultation အတွက်ဆက်သွယ်ရန်",
